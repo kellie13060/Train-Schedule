@@ -1,0 +1,39 @@
+body {
+    height: 100%;
+    background-image: url("images/black.jpg");
+
+}
+
+.form-group {
+    margin: 15px;
+
+}
+
+#addTrain {
+    margin: 15px;
+}
+
+.headingBack {
+    background-color: #3aafa9;
+    color: #def2f1;
+    padding: 10px;
+    margin: 0;
+    border-radius: 4px;
+
+}
+.panel {
+     background-color: #def2f1;
+     margin: 0px;
+     border: 1px;
+     border-radius: 4px;
+ }
+
+ .jumbotron {
+     background-color: #2b7a78;
+ }
+
+ #addTrain {
+     background-color: #17252a;
+     border: 1px #17252a solid;
+     color: #def2f1;
+ }
